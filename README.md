@@ -78,13 +78,21 @@ This project utilizes the **Olist Brazilian E-Commerce Public Dataset**, coverin
 
 1. **Clone & Environment Setup**:
    ```bash
-   cd ecommerce_logistics_analysis
+   git clone https://github.com/dog098263-ui/ecommerce-delivery-logistics-analysis.git
+   cd ecommerce-delivery-logistics-analysis
    python3 -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
    ```
 
-2. **Run Pipeline & Analysis**:
+2. **Download Raw Dataset**:
+   Raw CSV files (~120MB uncompressed) are excluded from git to prevent repository bloat. Automatically download and extract them into `data/raw/` with:
+   ```bash
+   python3 src/download_data.py
+   ```
+   *(Alternatively, download `olist_dataset.zip` manually from [GitHub Releases](https://github.com/dog098263-ui/ecommerce-delivery-logistics-analysis/releases/tag/v1.0.0-data) and unzip into `data/raw/`)*.
+
+3. **Run Pipeline & Analysis**:
    ```bash
    # 1. Ingest, audit, and clean data (creates SQLite DB and interim datasets)
    python3 src/ingest_and_clean.py
