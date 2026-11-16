@@ -42,6 +42,17 @@ def run_pipeline(project_dir: str):
         else:
             print(f"  ✗ Warning: {file_path} not found")
 
+    if "raw_orders" not in loaded_dfs:
+        print("\n" + "=" * 70)
+        print("✗ ERROR: Raw Olist CSV files not found in 'data/raw/'!")
+        print("Because the dataset is ~120MB uncompressed, raw CSVs are excluded from Git.")
+        print("\nTo download and extract the dataset in one click/command:")
+        print("   python3 src/download_data.py")
+        print("\nOr manually download the zip from GitHub Releases:")
+        print("   https://github.com/dog098263-ui/ecommerce-delivery-logistics-analysis/releases/tag/v1.0.0-data")
+        print("=" * 70 + "\n")
+        return
+
     print("\n[2/5] Parsing datetime columns and executing data-quality checks...")
     orders = loaded_dfs["raw_orders"].copy()
     date_cols = [
