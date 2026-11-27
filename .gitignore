@@ -7,7 +7,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Virtual environments
-venv/
+.venv/
 .env
 
 # Raw and generated large CSV data files
@@ -20,3 +20,4 @@ data/processed/*.csv
 # OS generated files
 .DS_Store
 Thumbs.db
+
