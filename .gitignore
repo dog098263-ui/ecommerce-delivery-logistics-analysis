@@ -15,6 +15,7 @@ data/raw/*.csv
 data/interim/*.csv
 data/interim/*.db
 data/processed/*.csv
+!data/processed/segment_kpis_summary.csv
 !data/**/*.gitkeep
 
 # OS generated files

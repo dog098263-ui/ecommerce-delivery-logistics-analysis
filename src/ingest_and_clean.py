@@ -195,6 +195,15 @@ def run_pipeline(project_dir: str):
     print(f"  ✓ Cleaned orders saved to: {cleaned_orders_path} ({len(orders):,} rows)")
     print(f"  ✓ Analytical dataset saved to: {analytical_path} ({len(df_analytical):,} rows)")
     print(f"  ✓ SQLite database updated: {db_path}")
+
+    # Generate processed KPI datasets required for Week 2 & Week 3
+    print("\n[Bonus] Automatically generating data/processed/ KPI datasets...")
+    try:
+        from generate_processed_kpis import generate_processed_datasets
+        generate_processed_datasets(project_dir)
+    except Exception as e:
+        print(f"  Notice: Could not automatically generate processed datasets: {e}")
+
     print("\nData Ingestion, Validation & Interim ETL Completed Successfully!")
 
 

@@ -1,0 +1,126 @@
+dimension_type,segment_value,total_orders,otd_rate_pct,cancellation_rate_pct,avg_processing_days,avg_transit_days,avg_delivery_days,avg_delay_when_late,avg_review_score
+Destination State,AC,81,96.25,0.0,3.45,17.56,21.04,19.03,4.05
+Destination State,AL,413,76.07,0.48,3.44,21.09,24.54,9.25,3.76
+Destination State,AM,148,95.86,0.68,2.9,23.52,26.43,20.9,4.21
+Destination State,AP,68,95.52,0.0,3.52,23.66,27.19,48.86,4.19
+Destination State,BA,3380,86.07,1.07,3.3,16.03,19.34,11.1,3.86
+Destination State,CE,1336,84.74,0.97,3.37,17.94,21.27,14.33,3.85
+Destination State,DF,2140,93.07,0.89,3.19,9.81,12.97,6.64,4.07
+Destination State,ES,2033,88.03,0.74,3.39,12.41,15.79,10.6,4.04
+Destination State,GO,2020,92.11,1.09,3.19,12.45,15.61,9.79,4.04
+Destination State,MA,747,80.67,1.47,3.63,17.99,21.57,9.97,3.76
+Destination State,MG,11635,94.61,1.19,3.24,8.78,12.01,7.53,4.14
+Destination State,MS,715,88.7,0.98,3.18,12.47,15.62,7.67,4.11
+Destination State,MT,907,93.54,0.55,3.21,14.93,18.06,10.0,4.1
+Destination State,PA,975,87.72,0.62,3.49,20.29,23.77,12.3,3.85
+Destination State,PB,536,88.97,0.93,3.48,16.92,20.43,10.46,4.02
+Destination State,PE,1652,89.26,0.54,3.27,15.17,18.45,11.34,4.01
+Destination State,PI,495,84.57,1.01,3.23,16.31,19.46,12.3,3.92
+Destination State,PR,5045,95.22,1.23,3.22,8.79,11.99,7.4,4.18
+Destination State,RJ,12852,86.67,1.2,3.32,12.01,15.31,12.85,3.88
+Destination State,RN,485,89.24,0.62,3.59,15.68,19.28,13.15,4.11
+Destination State,RO,253,97.12,2.77,2.85,16.52,19.37,6.18,4.05
+Destination State,RR,46,87.8,2.17,4.55,25.64,29.39,37.09,3.61
+Destination State,RS,5466,93.17,0.9,3.24,12.09,15.3,9.41,4.13
+Destination State,SC,3637,90.55,1.02,3.34,11.65,14.95,7.7,4.07
+Destination State,SE,350,85.03,1.43,3.64,17.96,21.52,16.89,3.81
+Destination State,SP,41746,94.28,1.48,3.17,5.6,8.76,7.03,4.17
+Destination State,TO,280,87.55,0.71,3.45,14.28,17.66,5.65,4.1
+Origin Seller State,BA,568,94.34,0.35,3.37,10.53,13.9,13.21,4.12
+Origin Seller State,CE,89,90.59,1.12,3.43,14.55,17.82,20.64,4.15
+Origin Seller State,DF,819,94.14,0.37,2.95,9.51,12.46,9.36,4.06
+Origin Seller State,ES,315,92.86,0.0,2.55,10.57,13.12,9.83,4.1
+Origin Seller State,GO,463,96.22,0.65,2.58,10.31,12.86,10.35,4.31
+Origin Seller State,MA,391,77.6,0.0,4.94,12.93,17.77,7.27,3.99
+Origin Seller State,MG,7844,94.69,0.64,3.22,9.67,12.88,12.41,4.18
+Origin Seller State,MS,47,91.49,0.0,4.19,8.16,12.35,5.85,4.52
+Origin Seller State,MT,135,95.52,0.0,3.32,11.44,14.77,6.81,4.2
+Origin Seller State,PB,34,93.94,0.0,3.52,9.57,13.01,1.71,4.0
+Origin Seller State,PE,406,95.53,0.25,2.21,10.61,12.81,7.09,4.25
+Origin Seller State,PR,7590,93.64,0.34,3.5,9.96,13.43,10.91,4.15
+Origin Seller State,RJ,4311,91.67,0.53,2.85,9.26,12.1,9.93,4.17
+Origin Seller State,RN,51,90.2,0.0,4.4,8.72,13.12,8.48,4.27
+Origin Seller State,RS,1976,95.94,0.3,3.45,8.09,11.53,9.73,4.29
+Origin Seller State,SC,3615,94.18,0.5,3.1,10.67,13.76,10.94,4.16
+Origin Seller State,SP,69968,91.41,0.48,3.24,9.14,12.36,9.18,4.08
+Weekday,Friday,14122,91.84,1.23,4.22,9.37,13.57,9.58,4.03
+Weekday,Monday,16196,91.11,1.34,2.73,9.28,12.0,9.23,4.1
+Weekday,Saturday,10887,92.45,1.13,3.88,9.49,13.36,10.75,4.07
+Weekday,Sunday,11960,92.57,1.08,2.85,9.12,11.96,9.15,4.1
+Weekday,Thursday,14761,92.64,1.29,3.38,9.38,12.74,9.14,4.09
+Weekday,Tuesday,15963,91.73,1.27,2.85,9.24,12.08,9.07,4.1
+Weekday,Wednesday,15552,92.48,1.28,3.0,9.46,12.44,10.31,4.11
+Product Category,agro_industry_and_commerce,182,94.92,0.0,3.08,8.33,11.43,9.57,4.02
+Product Category,air_conditioning,252,95.92,0.79,3.83,8.09,11.88,13.25,4.04
+Product Category,art,198,92.15,0.51,4.03,7.37,11.39,3.27,4.05
+Product Category,arts_and_craftmanship,22,90.91,0.0,2.24,3.46,5.71,2.72,4.14
+Product Category,audio,346,86.92,0.29,2.98,10.52,13.51,8.34,3.84
+Product Category,auto,3880,91.79,0.64,2.93,9.43,12.34,11.14,4.1
+Product Category,baby,2839,90.79,0.6,3.38,9.37,12.73,10.7,4.06
+Product Category,bed_bath_table,9311,91.37,0.19,3.18,9.88,13.03,10.0,3.98
+Product Category,books_general_interest,509,93.29,1.38,3.12,8.44,11.54,7.29,4.47
+Product Category,books_imported,52,97.96,0.0,2.72,5.09,7.8,7.75,4.38
+Product Category,books_technical,259,89.72,0.0,2.94,7.69,10.64,5.52,4.4
+Product Category,christmas_supplies,128,90.4,0.78,3.52,11.86,15.37,12.95,4.06
+Product Category,cine_photo,65,93.55,0.0,2.31,8.43,10.47,3.09,4.23
+Product Category,computers,180,93.18,0.0,3.39,10.57,13.94,10.93,4.19
+Product Category,computers_accessories,6660,92.43,0.53,3.59,9.6,13.19,9.26,4.03
+Product Category,consoles_games,1058,92.09,0.76,4.03,9.77,13.78,9.11,4.07
+Product Category,construction_tools_construction,740,90.8,0.27,2.45,8.41,10.86,10.34,4.09
+Product Category,construction_tools_lights,233,90.91,0.43,3.16,6.59,9.76,5.12,4.19
+Product Category,construction_tools_safety,162,95.45,1.23,3.37,8.33,11.7,8.81,3.89
+Product Category,cool_stuff,3603,93.2,0.44,2.88,9.52,12.4,10.58,4.18
+Product Category,costruction_tools_garden,187,92.9,1.07,3.02,9.02,12.04,2.97,4.22
+Product Category,costruction_tools_tools,97,93.81,0.0,2.64,9.57,12.21,6.42,4.43
+Product Category,diapers_and_hygiene,27,96.0,3.7,4.11,6.28,10.49,0.9,3.74
+Product Category,drinks,294,94.64,0.34,3.13,7.28,10.37,10.49,4.18
+Product Category,dvds_blu_ray,59,92.86,3.39,3.0,10.06,12.98,7.74,4.09
+Product Category,electronics,2540,90.26,0.28,2.74,10.2,12.94,7.95,4.1
+Product Category,fashio_female_clothing,39,94.44,0.0,5.02,7.92,13.0,4.57,3.73
+Product Category,fashion_bags_accessories,1854,93.53,0.32,2.64,8.63,11.23,9.35,4.19
+Product Category,fashion_male_clothing,112,95.28,0.89,4.74,8.25,12.86,10.88,3.7
+Product Category,fashion_shoes,238,93.56,0.84,5.53,10.18,15.74,8.47,4.23
+Product Category,fashion_sport,25,91.67,0.0,2.56,7.74,10.29,4.64,4.4
+Product Category,fashion_underwear_beach,121,87.18,0.0,4.29,9.79,14.0,6.77,3.93
+Product Category,fixed_telephony,217,94.81,1.38,3.86,8.66,12.53,9.25,3.9
+Product Category,flowers,29,96.55,0.0,3.24,8.25,11.49,5.96,4.39
+Product Category,food,444,90.3,0.23,1.99,7.86,9.82,10.48,4.27
+Product Category,food_drink,224,93.58,0.89,2.96,7.91,10.88,9.13,4.38
+Product Category,furniture_bedroom,94,92.13,0.0,4.63,9.13,13.76,7.82,4.16
+Product Category,furniture_decor,6355,91.73,0.38,3.74,9.39,13.1,10.03,4.02
+Product Category,furniture_living_room,417,91.67,0.48,3.85,10.11,13.95,10.12,4.05
+Product Category,furniture_mattress_and_upholstery,38,86.49,0.0,2.82,11.65,14.43,15.71,3.82
+Product Category,garden_tools,3482,92.19,0.37,3.1,10.57,13.68,9.38,4.15
+Product Category,health_beauty,8796,91.18,0.4,3.07,9.04,12.1,8.94,4.19
+Product Category,home_appliances,764,93.43,0.26,3.04,8.27,11.31,5.13,4.16
+Product Category,home_appliances_2,233,93.33,1.29,4.58,9.3,13.88,19.93,4.14
+Product Category,home_comfort_2,22,81.82,0.0,2.51,12.57,15.08,10.27,3.9
+Product Category,home_confort,375,90.46,0.0,2.76,10.83,13.56,13.21,3.88
+Product Category,home_construction,473,92.04,0.21,4.56,8.98,13.51,10.26,4.03
+Product Category,housewares,5829,93.17,0.63,3.07,8.05,11.11,8.86,4.15
+Product Category,industry_commerce_and_business,232,92.51,0.0,2.77,8.17,10.93,8.51,4.2
+Product Category,kitchen_dining_laundry_garden_furniture,246,95.4,0.81,3.53,8.31,11.85,9.43,4.06
+Product Category,luggage_accessories,1023,95.11,0.39,2.02,8.91,10.89,7.47,4.34
+Product Category,market_place,274,95.15,0.36,3.79,8.61,12.37,10.43,4.06
+Product Category,music,37,91.89,0.0,3.43,8.12,11.56,12.73,4.3
+Product Category,musical_instruments,624,91.25,1.28,3.43,9.72,13.11,11.25,4.19
+Product Category,office_furniture,1265,90.77,0.08,10.47,10.23,20.7,12.29,3.62
+Product Category,party_supplies,39,97.37,0.0,2.27,6.78,9.0,0.92,4.0
+Product Category,perfumery,3149,92.58,0.51,2.95,8.97,11.93,10.5,4.21
+Product Category,pet_shop,1704,93.87,0.23,3.2,8.21,11.4,7.15,4.24
+Product Category,signaling_and_security,140,94.2,0.0,3.18,7.68,10.87,13.97,4.11
+Product Category,small_appliances,627,94.04,1.28,2.72,8.3,11.01,7.62,4.18
+Product Category,small_appliances_home_oven_and_coffee,75,93.06,0.0,2.71,7.23,9.93,4.45,4.29
+Product Category,sports_leisure,7681,92.35,0.61,2.78,9.51,12.26,9.84,4.17
+Product Category,stationery,2294,92.5,0.52,3.09,9.74,12.81,10.59,4.25
+Product Category,tablets_printing_image,77,93.51,0.0,3.47,9.58,13.05,9.4,4.17
+Product Category,telephony,4182,91.55,0.38,3.51,9.47,12.97,8.42,4.01
+Product Category,toys,3861,92.71,0.8,2.82,8.96,11.75,10.09,4.19
+Product Category,uncategorized,1416,91.16,0.99,3.65,9.17,12.76,9.12,3.93
+Product Category,watches_gifts,5601,91.65,0.36,2.89,9.94,12.82,9.17,4.07
+Interstate Route,False,36254,94.12,2.79,3.15,4.81,7.95,6.51,4.16
+Interstate Route,True,63187,90.93,0.35,3.29,11.88,15.15,10.67,4.05
+Warehouse Processing Tier,Chronic Lag (> 4 Days),25366,85.94,0.07,7.32,9.82,17.13,9.41,3.9
+Warehouse Processing Tier,Fast (<= 2 Days),43463,94.89,0.07,1.1,8.87,9.97,9.68,4.25
+Warehouse Processing Tier,Moderate (2-4 Days),28640,92.57,0.09,2.88,9.6,12.48,9.68,4.15
+Warehouse Processing Tier,Unknown,1972,,58.77,,,7.28,3.11,1.85
